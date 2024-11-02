@@ -129,7 +129,7 @@
 <br/>
 
 <div class="header">
-    <h1>Hi there<img src="wave.gif" class="wave" alt="wave"> I am <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" /> </h1>
+    <h1>Hi there<img src="wave.gif" class="wave" alt="wave"> I am <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" /> </h1>
     <picture class="mode">
       <source media="(prefers-color-scheme: dark)" srcset="moon.png">
       <source media="(prefers-color-scheme: light)" srcset="sun.png">
