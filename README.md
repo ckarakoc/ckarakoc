@@ -184,7 +184,7 @@
 
 <a class="outer-tag" href="https://www.codewars.com/users/ckarakoc">
   <div class="codewars-wrapper">
-  <img alt="codewars" class="codewars" src="codewars.png">
+    <img style="background: transparent;" alt="codewars" class="codewars" src="codewars.png">
   </div>
   <img alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
 </a>
