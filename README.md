@@ -49,6 +49,11 @@
       <a href="https://www.codewars.com/users/ckarakoc">
         <img alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
       </a>
+    </div><div>
+      <img alt="markdown" height="30" width="30" class="markdown" src="markdown-black.svg">
+      <a href="https://ckarakoc.github.io/ckarakoc/">
+        <img alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=for-the-badge"/>
+      </a>
     </div>
 </div>
 
