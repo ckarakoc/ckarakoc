@@ -1,17 +1,17 @@
-<div style="display: flex; margin-top: 10px; padding: 0; align-items: center; justify-content: space-between;">
-    <h1 style="margin: 0; padding: 0;">
-        Hi there<img src="wave.gif" style="width: 30px; height: 30px;" alt="wave"> I am <br/>
+<div>
+    <h1>
+        Hi there<img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" />
     </h1>
 </div>
 <div>
     <div align="center">
-      <img align="center" alt="Fallback" src="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+      <img align="center" alt="Fallback" src="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
     </div>
     <br>
     <div>
-      <img  alt="Fallback" src="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue-dark&hide_border=true">
-      <img alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+      <img  alt="Fallback" src="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue-dark&hide_border=false">
+      <img alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
     </div>
 </div>
 
