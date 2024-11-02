@@ -153,9 +153,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=true&layout=compact">
-  <img alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <source height="195" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
+  <source height="195" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
+  <img height="195" alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
 </picture>
 </div>
 </div>
