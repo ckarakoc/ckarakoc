@@ -28,7 +28,7 @@
   .gh-stats-2 { 
     display: flex;
     grid-area: bot; 
-    align-items: baseline;
+    align-items: center;
     justify-content: space-evenly;
   }
   .gh-stats {
