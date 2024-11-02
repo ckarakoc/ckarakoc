@@ -173,7 +173,7 @@
 </a>
 
 <a class="outer-tag" href="https://www.ckarakoc.nl/CV.pdf">
-  <img alt="resume" class="resume" src="https://www.hs-straznice.cz/wp-content/uploads/2022/01/document.gif">
+  <img alt="resume" class="resume" src="document.gif">
   <img alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/>
 </a>
 
@@ -184,7 +184,7 @@
 
 <a class="outer-tag" href="https://www.codewars.com/users/ckarakoc">
   <div class="codewars-wrapper">
-  <img alt="codewars" class="codewars" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/224027/cw-512-12b281b9-f8a8-4512-9050-dcc2a2c7bb89.png">
+  <img alt="codewars" class="codewars" src="codewars.png">
   </div>
   <img alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
 </a>
