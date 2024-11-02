@@ -8,7 +8,6 @@
     <div align="center">
       <img align="center" alt="Fallback" src="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
     </div>
-    <br>
     <div>
       <img  alt="Fallback" src="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue-dark&hide_border=false">
       <img alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
