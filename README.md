@@ -24,29 +24,31 @@
 
 <div>
     <div>
-      <img alt="linkedin" height="30" class="linkedin" src="linkedin.gif">
+        <img src="banner2.jpg" align="right" height="200">
+      <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
       <a href="https://www.linkedin.com/in/celal-karakoç/">
         <img alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/>
       </a>
     </div><div>
-      <img alt="earth" height="30" class="earth" src="earth.gif">
-      <a href="#">
+      <img alt="earth" height="30" width="30" class="earth" src="earth.gif">
+      <a href="https://www.ckarakoc.nl/">
         <img alt="earth2" title="earth2" style="margin: 0; padding: 0;" src="https://img.shields.io/badge/-website-darkblue?style=for-the-badge"/>
       </a>
     </div><div>
-      <img alt="resume" height="30" class="resume" src="document.gif">
-      <a href="#">
+      <img alt="resume" height="30" width="30" class="resume" src="document.gif">
+      <a href="https://www.ckarakoc.nl/CV.pdf">
         <img alt="resume2" title="resume2" style="margin: 0; padding: 0;" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/>
       </a>
     </div><div>
-      <img alt="ghpages" height="30" class="ghpages" src="github.gif">
-      <a href="#">
+      <img alt="ghpages" height="30" width="30" class="ghpages" src="github.gif">
+      <a href="https://ckarakoc.github.io/">
         <img alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=for-the-badge"/>
       </a>
     </div><div>
-      <img alt="codewars" height="30" class="codewars" src="codewars.png">
-      <a href="#">
+      <img alt="codewars" height="30" width="30" class="codewars" src="codewars.png">
+      <a href="https://www.codewars.com/users/ckarakoc">
         <img alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
       </a>
     </div>
 </div>
+
