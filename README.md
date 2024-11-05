@@ -1,7 +1,7 @@
 <div>
     <h1>
         Hi there<img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" />
+        <a href="https://ckarakoc.nl#about"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" /></a>
     </h1>
 </div>
 <div>
