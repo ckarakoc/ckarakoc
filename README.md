@@ -14,7 +14,7 @@
     </div>
     <br>
     <div align="center">
-      <img height=200 alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=450">
+      <img height=200 alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
     </div>
 </div>
 
