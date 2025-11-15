@@ -10,7 +10,7 @@
     </div>
     <br>
     <div align="center">
-      <img height=200 alt="Fallback" src="https://github-readme-streak-stats-fawn-theta.vercel.app?user=ckarakoc&theme=vue-dark">
+      <img height=200 alt="Fallback" src="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue-dark">
     </div>
     <br>
     <div align="center">
