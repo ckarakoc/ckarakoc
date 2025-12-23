@@ -140,22 +140,22 @@
 <div class="gh-stats">
 <div class="gh-stats-1">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
-  <img alt="Fallback" src="https://github-readme-stats.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&count_private=true&rank_icon=github">
+  <img alt="Fallback" src="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
 </picture>
 </div>
 <div class="gh-stats-2">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue-dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue&hide_border=true">
-  <img alt="Fallback" src="https://github-readme-streak-stats.herokuapp.com/?user=ckarakoc&theme=vue-dark&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-froc.vercel.app/?user=ckarakoc&theme=vue-dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-froc.vercel.app/?user=ckarakoc&theme=vue&hide_border=true">
+  <img alt="Fallback" src="https://github-readme-streak-stats-froc.vercel.app/?user=ckarakoc&theme=vue-dark&hide_border=true">
 </picture>
 
 <picture>
-  <source height="195" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
-  <source height="195" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
-  <img height="195" alt="Fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
+  <source height="195" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
+  <source height="195" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
+  <img height="195" alt="Fallback" src="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=450">
 </picture>
 </div>
 </div>
