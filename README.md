@@ -6,6 +6,7 @@
         </picture>
     </div>
     <div align="left" valign="top">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" align="left" />
         <h1>
             Hi there <img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
             <a href="https://ckarakoc.nl#about">
@@ -47,13 +48,52 @@
 
 -----
 
+
 <div>
-    <div><img src="banner2.jpg" align="right" height="200"><img  alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif"><a href="https://www.linkedin.com/in/celal-karakoç/"><img   alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/></a>
-    </div><div><img alt="earth" height="30" width="30" class="earth" src="earth.gif"><a href="https://www.ckarakoc.nl/"><img height="30" alt="earth2" title="earth2" class="earth2" src="https://img.shields.io/badge/-website-darkblue?style=for-the-badge"/></a>
-    </div><div><img alt="resume" height="30" width="30" class="resume" src="document.gif"><a href="https://www.ckarakoc.nl/CV.pdf"><img height="30" alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/></a>
-    </div><div><img alt="ghpages" height="30" width="30" class="ghpages" src="github.gif"><a href="https://ckarakoc.github.io/"><img height="30"  alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=for-the-badge"/></a>
-    </div><div><img alt="codewars" height="30" width="30" class="codewars" src="codewars.png"><a href="https://www.codewars.com/users/ckarakoc"><img height="30"  alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/></a>
-    </div><div><img alt="markdown" height="30" width="30" class="markdown" src="markdown-black.svg"><a href="https://ckarakoc.github.io/ckarakoc/"><img height="30"  alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=for-the-badge"/></a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="animation-skills-dark.gif">
+        <img src="animation-skills-light.gif" alt="GIF skills animation" align="left">
+    </picture>
+</div>
+<br />
+
+<div align="left">
+    <br/><br/>
+    <div>
+        <img  alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
+        <a href="https://www.linkedin.com/in/celal-karakoç/">
+            <img alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/>
+        </a>
+    </div><br/>
+    <div>
+        <img alt="earth" height="30" width="30" class="earth" src="earth.gif">
+        <a href="https://www.ckarakoc.nl/">
+            <img height="30" alt="earth2" title="earth2" class="earth2" src="https://img.shields.io/badge/-website-darkblue?style=for-the-badge"/>
+        </a>
+    </div><br/>
+    <div>
+        <img alt="resume" height="30" width="30" class="resume" src="document.gif">
+        <a href="https://www.ckarakoc.nl/CV.pdf">
+            <img height="30" alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/>
+        </a>
+    </div><br/>
+    <div>
+        <img alt="ghpages" height="30" width="30" class="ghpages" src="github.gif">
+        <a href="https://ckarakoc.github.io/">
+            <img height="30"  alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=for-the-badge"/>
+        </a>
+    </div><br/>
+    <div>
+        <img alt="codewars" height="30" width="30" class="codewars" src="codewars.png">
+        <a href="https://www.codewars.com/users/ckarakoc">
+            <img height="30"  alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
+        </a>
+    </div><br/>
+    <div>
+        <img alt="markdown" height="30" width="30" class="markdown" src="markdown-black.svg">
+        <a href="https://ckarakoc.github.io/ckarakoc/">
+            <img height="30"  alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=for-the-badge"/>
+        </a>
     </div>
 </div>
 
