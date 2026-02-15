@@ -72,13 +72,16 @@
         </a>
     </div><br/>
     <div>
-        <img alt="resume" height="30" width="30" class="resume" src="document.gif">
+        <img alt="resume" height="30" width="30" class="resume" src="dakernet-leaves.gif">
         <a href="https://www.ckarakoc.nl/CV.pdf">
             <img height="30" alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/>
         </a>
     </div><br/>
     <div>
-        <img alt="ghpages" height="30" width="30" class="ghpages" src="github.gif">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="github-logo-dark.png">
+            <img alt="ghpages" height="30" width="30" class="ghpages" src="github-logo-light.png">
+        </picture>
         <a href="https://ckarakoc.github.io/">
             <img height="30"  alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=for-the-badge"/>
         </a>
@@ -90,7 +93,10 @@
         </a>
     </div><br/>
     <div>
-        <img alt="markdown" height="30" width="30" class="markdown" src="markdown-black.svg">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="markdown-dark.svg">
+            <img alt="markdown" height="30" width="30" class="markdown" src="markdown-light.svg">
+        </picture>
         <a href="https://ckarakoc.github.io/ckarakoc/">
             <img height="30"  alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=for-the-badge"/>
         </a>
