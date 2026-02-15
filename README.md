@@ -34,8 +34,9 @@
     <br>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&border_color=ffffff&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
-            <img height="200" alt="Top Langs" src="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&border_color=28a745&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
+            <!-- URL encode comma and space with %2C and %20 inside srcset, because srcset will stop with the url after reading a comma or space -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&border_color=ffffff&layout=compact&langs_count=8&card_width=450&hide=roff%2Cjupyter%20notebook"> 
+            <img height="200" alt="Top Langs" src="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&border_color=28a745&layout=compact&langs_count=8&card_width=450&hide=roff,jupyter%20notebook">
         </picture>
     </div>
     <br>
