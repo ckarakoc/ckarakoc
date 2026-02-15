@@ -55,12 +55,13 @@
         <img src="animation-skills-light.gif" alt="GIF skills animation" align="left">
     </picture>
 </div>
+<br/>
+<img height="250" align="right" alt="desk" class="markdown" src="desk.gif">
 <br />
 
 <div align="left">
-    <br/><br/>
     <div>
-        <img  alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
+        <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
         <a href="https://www.linkedin.com/in/celal-karakoç/">
             <img alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/>
         </a>
@@ -102,4 +103,9 @@
         </a>
     </div>
 </div>
+<br/>
+<img widht="100%" alt="laptop-banner" class="laptop-banner" src="animated-laptop-banner.gif">
+
+
+
 
