@@ -1,29 +1,55 @@
-<div>
-    <h1>
-        Hi there<img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
-        <a href="https://ckarakoc.nl#about"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" /></a>
-    </h1>
-</div>
-<div>
-    <div align="center">
-      <img align="center" alt="Fallback" src="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github&ring_color=00000000">
-    </div>
-    <br>
-    <div align="center">
-      <img height=200 alt="Fallback" src="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue-dark">
-    </div>
-    <br>
-    <div align="center">
-      <img height=200 alt="Fallback" src="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
-    </div>
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td align="left" valign="top">
+                <h1>
+                    Hi there <img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
+                    <a href="https://ckarakoc.nl#about">
+                        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Celal+Karako%C3%A7;Software+Engineer" alt="Typing SVG" />
+                    </a>
+                </h1>
+            </td>
+            <td align="right" valign="top">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="moon.png">
+                    <img height="30" src="sun.png" alt="mode">
+                </picture>
+            </td>
+        </tr>
+    </table>
 </div>
 
+<div>
+    <div align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=github&ring_color=00000000">
+            <img align="center" alt="Fallback" src="https://github-readme-stats-weld-pi-20.vercel.app/api?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&count_private=true&rank_icon=github&ring_color=ffffff00">
+        </picture>
+    </div>
+    <br>
+    <div align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue-dark">
+            <img height="200" alt="Streak Stats" src="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue">
+        </picture>
+    </div>
+    <br>
+    <div align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
+            <img height="200" alt="Top Langs" src="https://github-readme-stats-weld-pi-20.vercel.app/api/top-langs/?username=ckarakoc&theme=vue&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=450&hide=jupyter%20notebook,roff">
+        </picture>
+    </div>
+    <br>
+    <div align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&color=28a745&line=28a74550&point=28a745">
+            <img height="200" align="center" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&bg_color=f2f2f2&color=28a745&line=28a74550&point=28a745">
+        </picture>
+    </div>
+</div>
 
 -----
-
-
-
-
 
 <div>
     <div><img src="banner2.jpg" align="right" height="200"><img  alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif"><a href="https://www.linkedin.com/in/celal-karakoç/"><img   alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/></a>
