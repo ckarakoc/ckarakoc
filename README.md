@@ -57,10 +57,9 @@
         <img src="animation-skills-light.gif" alt="GIF skills animation" align="left">
     </picture>
 </div>
-<br/>
+<br/><br/>
 
 <div align="left">
-    <br/>
     <div>
         <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
         <a href="https://www.linkedin.com/in/celal-karakoç/">
