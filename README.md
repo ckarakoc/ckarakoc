@@ -6,6 +6,7 @@
         </picture>
     </div>
     <div align="left" valign="top">
+        <img height="100" align="left" alt="tech-stack-floating" class="tech-stack-floating" src="tech-stack-floating.gif">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" align="left" />
         <h1>
             Hi there <img src="wave.gif" width="30" height="30" alt="wave"> I am <br/>
@@ -56,10 +57,9 @@
     </picture>
 </div>
 <br/>
-<img height="250" align="right" alt="desk" class="markdown" src="desk.gif">
-<br />
 
 <div align="left">
+    <br/>
     <div>
         <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
         <a href="https://www.linkedin.com/in/celal-karakoç/">
@@ -104,7 +104,7 @@
     </div>
 </div>
 <br/>
-<img widht="100%" alt="laptop-banner" class="laptop-banner" src="animated-laptop-banner.gif">
+<img width="100%" alt="laptop-banner" class="laptop-banner" src="animated-laptop-banner.gif">
 
 
 
