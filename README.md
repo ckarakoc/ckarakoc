@@ -42,8 +42,8 @@
     <br>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&bg_color=273849&border_color=ffffff&color=28a745&line=28a74550&point=28a745">
-            <img height="300" align="center" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&bg_color=fffefe&border_color=28a745&color=28a745&line=28a74550&point=28a745">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-zeta-seven.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&bg_color=273849&border_color=ffffff&color=28a745&line=28a74550&point=28a745">
+            <img height="300" align="center" alt="Activity Graph" src="https://github-readme-activity-graph-zeta-seven.vercel.app/graph?username=ckarakoc&area=true&area_color=28a74550&theme=github&radius=16&hide_title=false&bg_color=fffefe&border_color=28a745&color=28a745&line=28a74550&point=28a745">
         </picture>
     </div>
 </div>
