@@ -27,8 +27,8 @@
     <br>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue-dark&border=ffffff">
-            <img height="200" alt="Streak Stats" src="https://github-readme-streak-stats-froc.vercel.app?user=ckarakoc&theme=vue&border=28a745">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-gamma-lyart-84.vercel.app?user=ckarakoc&theme=vue-dark&border=ffffff">
+            <img height="200" alt="Streak Stats" src="https://github-readme-streak-stats-gamma-lyart-84.vercel.app?user=ckarakoc&theme=vue&border=28A745">
         </picture>
     </div>
     <br>
