@@ -61,45 +61,45 @@
 
 <div align="left">
     <div>
-        <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif">
-        <a href="https://www.linkedin.com/in/celal-karakoç/">
-            <img alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=for-the-badge"/>
+        <img alt="linkedin" height="30" width="30" class="linkedin" src="linkedin.gif" align="center">
+        <a href="https://www.linkedin.com/in/celal-karakoç/" align="center">
+            <img alt="linkedin2" title="linkedin2"  src="https://img.shields.io/badge/-linkedin-0274B3?style=flat" align="center"/>
         </a>
     </div><br/>
     <div>
-        <img alt="earth" height="30" width="30" class="earth" src="earth.gif">
-        <a href="https://www.ckarakoc.nl/">
-            <img height="30" alt="earth2" title="earth2" class="earth2" src="https://img.shields.io/badge/-website-darkblue?style=for-the-badge"/>
+        <img alt="earth" height="30" width="30" class="earth" src="earth.gif" align="center">
+        <a href="https://www.ckarakoc.nl/" align="center">
+            <img height="30" alt="earth2" title="earth2" class="earth2" src="https://img.shields.io/badge/-website-darkblue?style=flat" align="center"/>
         </a>
     </div><br/>
     <div>
-        <img alt="resume" height="30" width="30" class="resume" src="dakernet-leaves.gif">
-        <a href="https://www.ckarakoc.nl/CV.pdf">
-            <img height="30" alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=for-the-badge"/>
+        <img alt="resume" height="30" width="30" class="resume" src="dakernet-leaves.gif" align="center">
+        <a href="https://www.ckarakoc.nl/CV.pdf" align="center">
+            <img height="30" alt="resume2" title="resume2" class="resume2" src="https://img.shields.io/badge/-resume-000000?style=flat" align="center"/>
         </a>
     </div><br/>
     <div>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="github-logo-dark.png">
-            <img alt="ghpages" height="30" width="30" class="ghpages" src="github-logo-light.png">
+            <img alt="ghpages" height="30" width="30" class="ghpages" src="github-logo-light.png" align="center">
         </picture>
-        <a href="https://ckarakoc.github.io/">
-            <img height="30"  alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=for-the-badge"/>
+        <a href="https://ckarakoc.github.io/" align="center">
+            <img height="30"  alt="ghpages2" title="ghpages2" class="ghpages2" src="https://img.shields.io/badge/-portfolio-fff?style=flat" align="center"/>
         </a>
     </div><br/>
     <div>
-        <img alt="codewars" height="30" width="30" class="codewars" src="codewars.png">
-        <a href="https://www.codewars.com/users/ckarakoc">
-            <img height="30"  alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=for-the-badge"/>
+        <img alt="codewars" height="30" width="30" class="codewars" src="codewars.png" align="center">
+        <a href="https://www.codewars.com/users/ckarakoc" align="center">
+            <img height="30" align="center" alt="codewars2" title="codewars2" class="codewars2" src="https://img.shields.io/badge/-codewars-darkred?style=flat"/>
         </a>
     </div><br/>
     <div>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="markdown-dark.svg">
-            <img alt="markdown" height="30" width="30" class="markdown" src="markdown-light.svg">
+            <img alt="markdown" height="30" width="30" class="markdown" src="markdown-light.svg" align="center">
         </picture>
-        <a href="https://ckarakoc.github.io/ckarakoc/">
-            <img height="30"  alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=for-the-badge"/>
+        <a href="https://ckarakoc.github.io/ckarakoc/" align="center">
+            <img height="30"  alt="markdown2" title="markdown2" class="markdown2" src="https://img.shields.io/badge/this-readme-orange?style=flat" align="center"/>
         </a>
     </div>
 </div>
